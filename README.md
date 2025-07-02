@@ -5,7 +5,7 @@ I'm a student and a core team member at [Django India](https://www.djangoproject
 ## 🚀 About Me
 
 - **Name:** Prakhar Mehrotra
-- **Role:** Student,Core Team Member at [Django India](https://djangoindia.org) and Backend Intern @[Storyvord](https://stroyvord.io)
+- **Role:** Student,Core Team Member at [Django India](https://djangoindia.org) and Backend Intern @[Storyvord](https://storyvord.io)
 - **Technologies:** Python, Django, PostgreSQL
 - **Projects:**
   - **[Agriconnect](https://github.com/prakkhar03/agriconnect):** A platform to connect farmers and buyers directly.
