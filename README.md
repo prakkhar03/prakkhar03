@@ -10,7 +10,6 @@ I'm a student and a core team member at [Django India](https://www.djangoproject
 - **Projects:**
   - **[Agriconnect](https://github.com/prakkhar03/agriconnect):** A platform to connect farmers and buyers directly.
   - **[Chatroom](https://github.com/prakkhar03/chatroom):** A real-time chat application.
-  - **[ReadmeFile Generator](https://github.com/prakkhar03/readmefile-generator):** A tool to generate beautiful README files for GitHub repositories.
 
 ## 🌱 What I'm currently working on
 
