@@ -1,6 +1,6 @@
 # Hi there, I'm Prakhar Mehrotra! 👋
 
-I'm a student and a core team member at [Django India](https://www.djangoproject.com/community/). I have a strong passion for developing scalable and efficient web applications using Python and Django. Here are some key details about me:
+I'm a student and Backend Intern at [StoryVord](https://storyvord.io). I have a strong passion for developing scalable and efficient web applications using Python and Django. Here are some key details about me:
 
 ## 🚀 About Me
 
