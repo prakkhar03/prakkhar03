@@ -72,4 +72,4 @@ A platform to connect students with relevant internships & skill-based opportuni
 ## 🤝 Let's Connect!
 
 Open to collaboration, discussions, mentorship, and exciting backend or AI project ideas.  
-Feel free to reach out—always happy to help and learn together! 😊
+Feel free to reach out-always happy to help and learn together! 😊
