@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **B.Tech CSE Student** at ABES Engineering College  
+- 🎓 **B.Tech CS Student** at ABES Engineering College  
 - 🧑‍💻 **Backend & AI Intern at StoryVord**  
 - 🌐 **Core Team Member – Django India**  
 - 💡 Passionate about building scalable backend systems, real-time apps, and AI-powered tools  
